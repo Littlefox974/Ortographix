@@ -5,7 +5,7 @@ An automatic web extension corrector
 
 ## Goal of the project
 
-The purpose of this project is to create an automated spell checker for web browsers.
+The purpose of this project is to create an automated spell checker for web browser
 
 The principle is the following: when the user writes some text on the web it is automatically corrected without 
 the need for the user to choose the selection. Moreover, the application also offers automatic text completion.
